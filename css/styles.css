@@ -1,0 +1,32 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: Outfit, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: hsl(218, 44%, 22%);
+  margin: 20px;
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+  margin: 20px 45px;
+}
+
+/*CLASSES*/
+.card {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 5%;
+  margin: 100px auto;
+  padding: 20px 12.5px 30px 12.5px;
+  width: 350px;
+
+}
+
+.qr-code {
+  border-radius: 5%;
+  position: relative;
+  width: 330px;
+}
